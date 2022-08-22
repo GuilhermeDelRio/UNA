@@ -1,0 +1,42 @@
+body { 
+  font-family: Helvetica;
+  text-align: center;
+  color: white;
+  background-color: #333;
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  border-bottom: 1px solid #666;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+ul li {
+  margin-right: 12px;
+}
+
+ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+ul li a:hover {
+  color: rgb(15, 89, 150);
+  text-decoration: none;
+}
+
+footer {
+  padding: 20px;
+  border-top: 1px solid #666;
+  margin-top: 20px;
+}
