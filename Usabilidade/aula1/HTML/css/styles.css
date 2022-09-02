@@ -35,6 +35,15 @@ ul li a:hover {
   text-decoration: none;
 }
 
+h1 {
+  font-size: 32px;
+}
+
+img {
+  border: 3px solid rgb(15, 194, 218);
+  height: 300px;
+}
+
 footer {
   padding: 20px;
   border-top: 1px solid #666;
