@@ -38,4 +38,4 @@ for (var i=0;i<lista.length;i++) {
   listaUl.appendChild(liFor);
 }
 
-document.write("A ul <b>ACIMA</b> foi criada dinamicante com JS")
+document.write("A LISTA <b>ACIMA</b> foi criada dinamicante com JS")
